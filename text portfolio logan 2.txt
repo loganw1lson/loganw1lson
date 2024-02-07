@@ -1,0 +1,55 @@
+* HOME
+home__social
+https://www.linkedin.com/in/loganw1lson/
+https://dribbble.com/loganw1lson
+https://github.com/TalonFreeland  <!-- Your GitHub link -->
+
+home__description
+Passionate web developer with a focus on creating seamless user experiences. Check out my work below.
+
+
+* ABOUT
+about__description
+Highly skilled and motivated graphic designer with strong attention to detail and many years of experience working with a variety of clients in different mediums of multimedia design. I am passionate about building and sustaining partnerships that result in creative wins, driving customer interest and loyalty.
+
+about__info-name
+Years <br> experience: [Your years of experience]
+Completed <br> projects: [Number of projects]
+Companies <br> worked: [Number of companies]
+
+about__info-position
+Social Media Manager & Lead Graphic Designer at Arbor Eyecare since July 2022. I have directed social media growth and management, emphasizing analytics, content strategy, and channel optimization for enhanced engagement. Additionally, I've developed image/video content across Instagram & Facebook, automated posting schedules with Hootsuite, and followed industry trends to maximize engagement and traffic. My achievements include a 210% increase in website traffic within the initial three months of social media management, along with a 271% increase in website sessions during the same period, indicating a higher frequency of repeated visits and sustained user interest. I also implemented a successful campaign at Arbor Eyecare, creating impactful traditional advertising materials and strategically running Facebook and Instagram ads, resulting in a remarkable 30% increase in optical sales for November 2023 compared to the previous year's campaign.
+
+Graphic Designer Remote for Renaissance Periodization or rpstrength from February 2023 to July 2023. I collaborated on a series of 7 fitness Health & Fitness ebooks for Dr. Mike Israetel. I successfully published and advertised the fitness ebooks on the @rpstrength Instagram account with a substantial following of 650k+. I translated intricate fitness concepts into visually appealing and easily understandable designs, enhancing the accessibility of the content. Managing multiple projects concurrently, I demonstrated strong organizational skills and the ability to meet deadlines with precision. I organized and managed files for ease of use across the Adobe Creative Suite according to brand guidelines.
+
+Freelance Graphic Design since 2014 to Present. I have been working with over 50 clients and businesses, showcasing adaptability and versatility in design. I established a freelance career in 2014 by initially selling digital paintings of Minecraft skins, demonstrating entrepreneurial spirit and early recognition of market trends. Acquiring expertise in advertising and marketing, I leveraged platforms such as Twitter & YouTube to promote personal branding and services.
+
+
+* SERVICES
+services__modal-service
+I develop the user interface.
+Web page development.
+I create UX element interactions.
+I position your company brand.
+
+
+* PORTFOLIO
+portfolio__description
+Website adaptable to all devices, with UI components and animated interactions.
+
+
+* PROJECT
+project__description
+Contact me now and get a 30% discount on your new project.
+
+
+* TESTIMONIAL
+testimonial__description
+I leave a good impression, carry out projects with the highest quality and attention, and provide 24/7 support.
+
+
+* FOOTER
+footer__social
+https://www.facebook.com/profile.php?id=100006288708517
+https://www.instagram.com/loganw1lson/
+https://twitter.com/  <!-- Add your Twitter link here -->
